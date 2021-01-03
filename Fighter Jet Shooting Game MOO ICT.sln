@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fighter Jet Shooting Game MOO ICT", "Fighter Jet Shooting Game MOO ICT\Fighter Jet Shooting Game MOO ICT.csproj", "{AADC921E-1CF3-4E0C-887F-FA4F55BC573C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AADC921E-1CF3-4E0C-887F-FA4F55BC573C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADC921E-1CF3-4E0C-887F-FA4F55BC573C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADC921E-1CF3-4E0C-887F-FA4F55BC573C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADC921E-1CF3-4E0C-887F-FA4F55BC573C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78752E8B-36E6-4032-8C17-1DA20AEAFDE9}
+	EndGlobalSection
+EndGlobal
